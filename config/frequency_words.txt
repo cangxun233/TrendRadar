@@ -2,18 +2,15 @@ Steam
 Switch
 PS5
 
-无畏契约
-瓦罗兰特
-VALORANT
-英雄联盟
-S15
-
 DeepSeek
 梁文锋
 
 一加
 ColorOS
 OPPO
+小米
+华为
+
 安卓
 Android
 
@@ -29,23 +26,23 @@ DJI
 微软
 Microsoft
 
+芯片
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
+苏姿丰
 
 谷歌
 google
 gemini
-deepmind
 
-chatgpt
 openai
+chatgpt
 sora
 
-claude
 Anthropic
+claude
 
 iphone
 ipad
@@ -55,6 +52,9 @@ ios
 ai
 !gai
 人工智能
+MCP
+agent
+cursor
 
 国产
 中国
@@ -64,6 +64,8 @@ ai
 韩国
 
 科技
+VR
+AR
 
 月球
 登月
@@ -71,15 +73,3 @@ ai
 宇宙
 飞船
 航空
-
-rapper
-说唱
-
-Nas
-硬盘
-私有云
-绿联
-威联通
-铁威马
-群晖
-极空间
